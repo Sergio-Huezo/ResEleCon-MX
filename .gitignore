@@ -131,3 +131,5 @@ dmypy.json
 # Created data
 pickles/
 csv_files/
+images/
+shapes/
